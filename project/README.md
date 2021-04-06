@@ -24,5 +24,3 @@ Følg anvisningen for å installere Sanity
 - Sørge for at localhost:PORT finnes i listen. Det er den porten du som React bruker (se i browseren du bruker)
 - Vanligvis er det localhost:3000
 - Trykk på Create token med "write" tilgang. Koden du får der må du lime inn i .env filen din
-
-## Kopier .gitignore fra "client" mappen til sanity mappen
