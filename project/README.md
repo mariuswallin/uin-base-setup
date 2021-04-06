@@ -20,6 +20,6 @@ Følg anvisningen for å installere Sanity
 - Vanligvis er det localhost:3000
 - Trykk på Create token med "write" tilgang. Koden du får der må du lime inn i .env filen din
 
-## Du må invitere inntil 3 fra gruppen i Sanity Manage
+## Du må invitere maks 3 fra gruppen i Sanity Manage
 
 (<https://manage.sanity.io/> => velg prosjekt => team => add member)
