@@ -1,9 +1,4 @@
-# Oppdatert 23.03.21 14:00
-
-## Clone prosjekt
-
-- I kommandolinja skriv git clone <https://github.com/mariuswallin/uin-base-setup.git> .
-- Deretter skriv rm -rf .git for å slette gammelt GIT repo
+# Oppdatert 06.04.21 14:00
 
 ## Installere React
 
@@ -24,3 +19,7 @@ Følg anvisningen for å installere Sanity
 - Sørge for at localhost:PORT finnes i listen. Det er den porten du som React bruker (se i browseren du bruker)
 - Vanligvis er det localhost:3000
 - Trykk på Create token med "write" tilgang. Koden du får der må du lime inn i .env filen din
+
+## Du må invitere inntil 3 fra gruppen i Sanity Manage
+
+(<https://manage.sanity.io/> => velg prosjekt => team => add member)
